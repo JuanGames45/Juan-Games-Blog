@@ -15,6 +15,89 @@
     <p>Bla blah blah</p> ]]>
     </description>
   </item>-->
+	<item>
+		<title>RIP Windows 10</title>
+		<link>https://www.juangames.com/blog/2025/rip-w10.html</link>
+		<updated>2025-10-8</update>
+	<description>
+		<![!CDATA[<h1>RIP Windows 10</h1>
+         <time>8th of October, 2025 8:30pm</time>
+         
+         <p>What can I say that you don’t already? Announced like two years
+            prior, this October 20th Microsoft will stop giving security updates to
+            windows 10.</p>
+            <p>It doesn’t affect me of course, but for people who still have to use
+            windows, it’s a low blow. Sure in GNU/Linux there are long term support
+            versions too, and they usually last around five years each. But I think
+            here’s the difference.</p>
+            <p>While in GNU/Linux you know that that version will be put out of
+            commission (as in security updates) in around five years, and if you
+            dislike what the developers are doing or just dislike the distribution
+            in general, you can just install a different one without any trouble.
+            Meanwhile you don’t know anything with Windows, Microsoft stated a lot
+            of years ago that w10 would be the last windows… It’s been like five
+            years since w11 launched? I only know that windows 10 was released in
+            2014 (god I’m rotten).</p>
+            <p>Windows 11’s poor performance, bloating, programs forced upon the
+            user such as copilot or recall and <a
+            href="https://news.itsfoss.com/windows-update-is-killing-ssds/">SSD
+            breaking capabilities</a> doesn’t help for it’s reputation either. Then
+            what should you do?</p>
+            <p>Answering that question… Do whatever, I’m just rambling about windows
+            being awful in my Linux Mint machine. It’s your life after all :V</p>
+            <p>But for real tho. Lately, windows has been getting worse and worse.
+            Outside of forcing programs no one asked (or at least that most of
+            people dislike) and making it impossible to uninstall, they even display
+            ads on a OS you <strong>had</strong> to pay for, usually windows is
+            included in the computer’s price when you buy it.</p>
+            <p>I’m not saying to use only free software just because. I’d advise you
+            to go little by little. IE: If you have enough space in your hard drive
+            (let’s say you have 300GB used in a 1TB SSD), you could make some space
+            from the windows partition to install a distro like Mint or PopOS and
+            dualboot. Basically choosing when to use Linux or Windows when you turn
+            your PC on.</p>
+            <p>Another suggestion is to try FLOSS alternatives over big tech ones.
+            Instead of Photoshop to draw, use Krita; to edit images, use GIMP (yes,
+            UI is obtuse, but there are mods like photogimp to make it look like
+            Photoshop’s UI along with it’s shortcuts); instead of Chrome, use Brave
+            or Firefox (tho I’d recommend something like WaterFox or LibreWolf);
+            Instead of MS Office, use LibreOffice; and a loooooong etc. All of these
+            alternatives can be used in windows, are free of charge and more
+            importantly, are free software.</p>
+            <p>Go step by step. Don’t try running before you can even walk. Like
+            everything, you may take some time to adapt since they are different
+            programs and operative system if you decide to switch to GNU/Linux. IE,
+            try switching your browser first, then other FLOSS programs and
+            <strong>then</strong> you make the switch to a distro. Or ignore this
+            and just do the switch to whatever distro you feel is more user
+            friendly.</p>
+            <p>In my case, I started with <a href="https://lubuntu.me">Lubuntu</a>
+            when my friend/mentor helped me installing it in my HP laptop at the
+            time to dual boot with windows 10. I don’t remember exactly when I made
+            the switch, but I think it was short after bitlocker in windows
+            activated for no reason (basically no one can access to your data
+            without your password, problem was that I didn’t set up nor knew about
+            it’s existence) and deactivated by itself. After like two years I think,
+            I liked the Cinnamon desktop environment more than LXQT and was kinda
+            tired of Canonical, corporation behind Ubuntu, forcing snaps. So I
+            switched to Linux Mint.</p>
+            <p>In my opinion, this is FLOSS greatest strength, if you don’t like the
+            software or what the developers are doing, you can easily get out and
+            use something else. I know I’m oversimplifying this, but this is just me
+            rambling about this topic. If you want to suggest me a topic to write
+            about like a tutorial on how to dual boot (tho there are thousands of
+            guides online) you can write me an email to <a
+            href="mailto:Contact@juangames.com">Contact@juangames.com</a>(preferred)
+            or a DM through <a
+            href="https://mastodon.social/@juangames">Mastodon</a> or <a
+            href="https://bsky.app/@juangames.com">Bluesky</a>.</p>
+            <p>And that’s mostly it, outside of the recent news of windows 11 <a
+            href="https://news.itsfoss.com/windows-11-local-account-setup-killed/">not
+            allowing creating local accounts</a> during installations anymore (which
+            isn’t surprising anymore), I don’t really have anything else to say.
+            Other than thank you for reading.</p>]]>
+	</description>
+	</item>
   <item>
   <title>Why you shouldn't be forced to pay with credit cards</title>
   <link>https://www.juangames.com/blog/2025/why-you-shouldnt-be-forced-to-pay-with-credit-card/</link>
